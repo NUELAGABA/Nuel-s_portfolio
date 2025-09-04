@@ -12,7 +12,7 @@ This repository contains data analysis, visualization dashboards, and a database
 
 The following dashboard provides key insights into student performance, gender distribution across majors, and overall pass/fail rates:  
 
-![Dashboard](https://github.com/NUELAGABA/nuel-s_portfolio/blob/main/dashboard.png.png)  
+![Dashboard](https://github.com/NUELAGABA/Nuel-s_portfolio/blob/main/dashboard.png) 
 
 ### Key Visuals:
 - **Sum of Passes and Fails (Top 10)** – Comparing student outcomes.  
@@ -27,7 +27,7 @@ The following dashboard provides key insights into student performance, gender d
 
 The database schema models customers, orders, products, employees, and payments.  
 
-![ERD](https://github.com/NUELAGABA/nuel-s_portfolio/blob/main/ERD%20Diagram.png.png)  
+![ERD](https://github.com/NUELAGABA/Nuel-s_portfolio/blob/main/ERD%20Diagram.png)  
 
 ### Tables:
 - **Customers** – Stores customer details (name, contact info, location).  
@@ -50,7 +50,7 @@ This project provides an interactive analysis of population trends and graduate 
 
 The dashboard highlights key insights into population growth, graduates by state, gender, city, and education level.  
 
-![BI Dashboard](https://github.com/NUELAGABA/nuel-s_portfolio/blob/main/Bi%20diagram.png.png)  
+![BI Dashboard](https://github.com/NUELAGABA/Nuel-s_portfolio/blob/main/Bi%20diagram.png)  
 
 ---
 
