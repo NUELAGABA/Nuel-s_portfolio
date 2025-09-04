@@ -1,7 +1,6 @@
-# nuel_portfolio
-## Analytics, Customer Services and Problem Solving
-
 # Nuel-s_portfolio
+
+## Analytics, Customer Services and Problem Solving
 
 # 📊 Student Performance & Sales Database Analysis  
 
@@ -87,4 +86,5 @@ The dashboard highlights key insights into population growth, graduates by state
 ## 🚀 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://https://github.com/NUELAGABA/nuel-s_portfolio.git
+   git clone https://github.com/NUELAGABA/Nuel-s_portfolio.git
+   
