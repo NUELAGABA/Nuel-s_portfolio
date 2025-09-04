@@ -83,8 +83,11 @@ The dashboard highlights key insights into population growth, graduates by state
 
 ---
 
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/NUELAGABA/Nuel-s_portfolio.git
+   ## 🤝 Connect With Me
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/emmanuel-agaba-8b9aa9252)  
+- GitHub: [github.com/yourusername](https://github.com/NUELAGABA)  
+- Email: [jay.data.analyst@example.com](emmanuelemmykul@gmail.com)  
+
+---
+✨ *“Data tells a story — I help businesses understand it.”* 
    
