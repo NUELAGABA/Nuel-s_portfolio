@@ -84,9 +84,9 @@ The dashboard highlights key insights into population growth, graduates by state
 ---
 
    ## 🤝 Connect With Me
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/emmanuel-agaba-8b9aa9252)  
-- GitHub: [github.com/yourusername](https://github.com/NUELAGABA)  
-- Email: [jay.data.analyst@example.com](emmanuelemmykul@gmail.com)  
+- LinkedIn: [www.linkedin.com/in/emmanuel-agaba-8b9aa9252] 
+- GitHub: [https://github.com/NUELAGABA] 
+- Email: [emmanuelemmykul@gmail.com] 
 
 ---
 ✨ *“Data tells a story — I help businesses understand it.”* 
